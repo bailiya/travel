@@ -8,7 +8,7 @@ npm i -g nodemon
 npm i -g @vue/cli@4.4.6
 ```
 
-### 如果页面效果显示不出来，在web文件夹安装element，输入下面命令，直接回车
+### web文件夹安装element，输入下面命令，直接回车
 ```
 vue add element
 ```
@@ -21,16 +21,7 @@ npm i axios --save
 ### 修改server文件下model里面的数据库用户名和密码
 
 
-### 在web文件夹cmd进入命令
+### 在server文件夹cmd，执行下面命令启动数据库
 ```
 npm run serve
 ```
-
-### 在server文件夹cmd进入命令启动数据库
-```
-npm run serve
-```
-
-
-
-###webpack配置，node_modules/@vue/cli-service
