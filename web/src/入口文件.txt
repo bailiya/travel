@@ -1,0 +1,7 @@
+main.js主要的js文件
+
+App.vue主要的视图文件
+
+router.js路由文件
+
+http.js，axios请求
