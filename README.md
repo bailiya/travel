@@ -23,7 +23,7 @@ npm i axios --save
 ### 修改server文件下model里面的数据库用户名和密码
 
 
-### 在server文件夹cmd，执行下面命令启动服务器
+### 在server文件夹cmd打开命令行，执行下面命令启动服务器
 ```
 npm run serve
 ```
