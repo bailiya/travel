@@ -1,3 +1,11 @@
+# travel
+简单的旅游网站
+
+# 环境准备
+* vue-cli
+* Node.js
+
+# 安装依赖
 ### 全局安装nodemon
 ```
 npm i -g nodemon
@@ -18,9 +26,8 @@ vue add element
 npm i axios --save
 ```
 
-### 启动数据库，把文件夹下面的travel.sql文件导入数据库
+### 启动数据库，把文件夹下面的travel.sql文件导入数据库，修改server文件下model里面的数据库用户名和密码
 
-### 修改server文件下model里面的数据库用户名和密码
 
 
 ### 在server文件夹cmd打开命令行，执行下面命令启动服务器
